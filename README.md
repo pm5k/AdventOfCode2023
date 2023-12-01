@@ -10,3 +10,10 @@ It contains the code, input and the readme of the puzzle.
 ## Why?
 
 I wanted do do AoC for the first time, and using Python or JS didn't sound fun..
+
+## Running solutions
+
+1. Install the fortran compiler (gfortran).
+2. `gfortran -o <binary_name> <source_file.f90>`
+3. `./<binary_name>`
+

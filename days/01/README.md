@@ -29,4 +29,4 @@ Consider your entire calibration document. What is the sum of all of the calibra
 2. Read it line by line
 3. Scan the line for integers and add all of those into an array
 4. Concatenate the first and last array member into an integer
-5. Populate the result array with these concat products and sum the array
+5. Populate the result accummulator with these concat products
