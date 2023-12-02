@@ -1,4 +1,4 @@
-program day_00
+program day_01
     implicit none
 
     ! Too lazy to dynamically allocate lines read from file,
@@ -43,4 +43,4 @@ program day_00
 
     ! Finally sum all the calibrations and print
     print *, all_calibrations
-end program day_00
+end program day_01
